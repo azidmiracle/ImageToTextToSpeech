@@ -1,0 +1,31 @@
+{
+  "prepare_queue": {
+    "installed": [],
+    "uninstalled": []
+  },
+  "config_munge": {
+    "files": {}
+  },
+  "installed_plugins": {
+    "cordova-plugin-android-permissions": {
+      "PACKAGE_NAME": "com.phonegap.imagetotexttospeech"
+    },
+    "cordova-plugin-camera": {
+      "ANDROID_SUPPORT_V4_VERSION": "27.+",
+      "PACKAGE_NAME": "com.phonegap.imagetotexttospeech"
+    },
+    "cordova-plugin-mobile-ocr": {
+      "PACKAGE_NAME": "com.phonegap.imagetotexttospeech"
+    },
+    "cordova-plugin-tesseract": {
+      "PACKAGE_NAME": "com.phonegap.imagetotexttospeech"
+    },
+    "cordova-plugin-texttospeech": {
+      "PACKAGE_NAME": "com.phonegap.imagetotexttospeech"
+    },
+    "cordova-plugin-whitelist": {
+      "PACKAGE_NAME": "com.phonegap.imagetotexttospeech"
+    }
+  },
+  "dependent_plugins": {}
+}

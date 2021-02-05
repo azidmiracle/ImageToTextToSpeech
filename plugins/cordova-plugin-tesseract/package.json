@@ -1,0 +1,67 @@
+{
+  "_from": "cordova-plugin-tesseract",
+  "_id": "cordova-plugin-tesseract@0.0.1",
+  "_inBundle": false,
+  "_integrity": "sha512-juNCNQRdwRNdu/+FgT4mEVPxOCGm4yybyK945NbU/O7hoikJ4YsDU/1qbPAA6bPasEaLOqaRwMmARNFFXGDUvg==",
+  "_location": "/cordova-plugin-tesseract",
+  "_phantomChildren": {},
+  "_requested": {
+    "type": "tag",
+    "registry": true,
+    "raw": "cordova-plugin-tesseract",
+    "name": "cordova-plugin-tesseract",
+    "escapedName": "cordova-plugin-tesseract",
+    "rawSpec": "",
+    "saveSpec": null,
+    "fetchSpec": "latest"
+  },
+  "_requiredBy": [
+    "#USER",
+    "/"
+  ],
+  "_resolved": "https://registry.npmjs.org/cordova-plugin-tesseract/-/cordova-plugin-tesseract-0.0.1.tgz",
+  "_shasum": "3f93487c95cdff7500467f816b3f009ea19b812a",
+  "_spec": "cordova-plugin-tesseract",
+  "_where": "C:\\Users\\emely\\Desktop\\Cordova\\TextRecognition",
+  "author": {
+    "name": "coturiv"
+  },
+  "bugs": {
+    "url": "https://github.com/coturiv/cordova-plugin-tesseract#issues"
+  },
+  "bundleDependencies": false,
+  "cordova": {
+    "id": "cordova-plugin-tesseract",
+    "platforms": [
+      "ios",
+      "android"
+    ]
+  },
+  "deprecated": false,
+  "description": "\n\t\tThis plugin allows to recognise text from images\n\t",
+  "engines": [
+    {
+      "name": "cordova",
+      "version": ">=3.6.0"
+    },
+    {
+      "name": "cordova-android",
+      "version": ">=3.6.0"
+    }
+  ],
+  "homepage": "https://github.com/coturiv/cordova-plugin-tesseract#readme",
+  "keywords": [
+    "ecosystem:cordova",
+    "cordova-ios",
+    "cordova-android",
+    "tesseract",
+    "ocr"
+  ],
+  "license": "MIT",
+  "name": "cordova-plugin-tesseract",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/coturiv/cordova-plugin-tesseract.git"
+  },
+  "version": "0.0.1"
+}

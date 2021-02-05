@@ -1,0 +1,60 @@
+{
+  "cordova-plugin-whitelist": {
+    "source": {
+      "type": "registry",
+      "id": "cordova-plugin-whitelist@1"
+    },
+    "is_top_level": true,
+    "variables": {}
+  },
+  "cordova-plugin-camera": {
+    "source": {
+      "type": "registry",
+      "id": "cordova-plugin-camera@4.1.0"
+    },
+    "is_top_level": true,
+    "variables": {
+      "ANDROID_SUPPORT_V4_VERSION": "27.+"
+    }
+  },
+  "cordova-plugin-tesseract": {
+    "source": {
+      "type": "registry",
+      "id": "cordova-plugin-tesseract@0.0.1"
+    },
+    "is_top_level": true,
+    "variables": {}
+  },
+  "cordova-plugin-tesseract-ocr": {
+    "source": {
+      "type": "registry",
+      "id": "cordova-plugin-tesseract-ocr"
+    },
+    "is_top_level": true,
+    "variables": {}
+  },
+  "cordova-plugin-mobile-ocr": {
+    "source": {
+      "type": "registry",
+      "id": "cordova-plugin-mobile-ocr@^3.1.1"
+    },
+    "is_top_level": true,
+    "variables": {}
+  },
+  "cordova-plugin-android-permissions": {
+    "source": {
+      "type": "registry",
+      "id": "cordova-plugin-android-permissions@~1.0.0"
+    },
+    "is_top_level": true,
+    "variables": {}
+  },
+  "cordova-plugin-texttospeech": {
+    "source": {
+      "type": "registry",
+      "id": "cordova-plugin-texttospeech"
+    },
+    "is_top_level": true,
+    "variables": {}
+  }
+}

@@ -6,4 +6,6 @@ In continuation of what I have learned in the mobile application, I decided to d
 Here is the architectural design of the application.
 
 
-# Implementation
+# Video
+
+[![Image to Text To Speech](/images/thumbnail.jpg)](https://www.youtube.com/watch?v=wb1dzLBNWK4 "Image to Text To Speech")

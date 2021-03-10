@@ -15,7 +15,7 @@ There is a speaker icon where the text will be converted to voice.
 ## Framework
 
 * Apache Cordova/Phonegap (https://cordova.apache.org/)
-* Plug-ins Used
+* Plug-ins Used *
 ** a. cordova-plugin-mobile-ocr (https://github.com/NeutrinosPlatform/cordova-plugin-mobile-ocr)
 ** b. cordova-plugin-texttospeech (https://www.npmjs.com/package/cordova-plugin-texttospeech")
 ** c. cordova-plugin-camera (https://cordova.apache.org/docs/en/latest/reference/cordova-plugin-camera/)
